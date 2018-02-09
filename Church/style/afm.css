@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:#fffff;
+
+}
+.logo{
+	
+	margin-bottom:10px;
+}
+blockquote{
+	font-size:12px;
+}
+p{
+	font-size:11px
+}
+.logo{
+	/*background-image:url(../images/logo/background.png);
+	background-repeat:no-repeat;*/
+	height:50%;
+}
+.col-sm-4{
+	margin:0px;
+}
+.panel-body{
+	background-color:#CCC;
+	background-color:transparent;
+}
